@@ -25,26 +25,26 @@ Adept at performing full software development life cycle activities. Highly comp
 
 	**--- strongest ---**
 
-	- Object­ oriented principles and design.
-  - DRY code, SOLID and TDD
+	- Object oriented principles and design.
+	- DRY code, SOLID and TDD
 	- JavaScript ES6
 	- React
-  - Node.js
-  - MongoDB - Mongoose
-  - RESTFul api design -> Express & Node.js
-	- Version control with git and GitHub
+	- Node.js
+	- MongoDB - Mongoose
+	- RESTFul api design -> Express & Node.js
+        - Version control with git and GitHub
 
 	**--- proficient ---**
 
-  - Ruby
-  - Sinatra
-	- Angular
+	- Ruby
+	- Sinatra
+        - Angular
 	- Deployment with Heroku
-  - HTML
-  - CSS
+	- HTML
+	- CSS
 
 	**--- dabbled ---**
 
-  - JQuery
+	- JQuery
 	- Ruby on Rails
-  - React-Native
+	- React-Native
