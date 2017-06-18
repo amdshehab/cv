@@ -51,7 +51,7 @@ Adept at performing full software development life cycle activities. Highly comp
 
 #### Makers Academy (April 2017 to July 2017)
 
-16 week highly selective intensive bootcamp in software/web development, encompassing the most widely used languages and frameworks. Special emphasises on good software craftsmanship and the ability to write well tested, clean and maintainable code. My studies have taken me beyond the standard curriculum:  
+16 week highly selective, intensive bootcamp in software/web development, encompassing the most widely used languages and frameworks. Special emphasises on good software craftsmanship and the ability to write well tested, clean and maintainable code. My studies have taken me beyond the standard curriculum:  
 
 - Agile and XP methodologies
 - TDD, BDD, DRY, SOLID and MVC
@@ -65,3 +65,13 @@ Adept at performing full software development life cycle activities. Highly comp
 - Rapid deployment with Heroku
 - Databases: MongoDB, PostgreSQL, Mongoose and Datamapper
 - HTML5, CSS3, SCSS, Bootstrap
+
+#### Birkbeck University of London - GeoChemistry (September 2016 to July 2018)
+
+- Awaiting Thesis proposal
+- Predicted Distinction
+
+#### London South Bank University - Petroleum Engineering (September 2012 to July 2015)
+
+- BEng Hons, 2.1
+- Achieved first class results in mathematically oriented, complex modules such as Advanced Engineering Mathematics and Thermodynamics
