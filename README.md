@@ -36,7 +36,7 @@ Adept at performing full software development life cycle activities. Highly comp
 
 	- Ruby
 	- Sinatra
-        - AngularJS
+    - AngularJS
 	- Deployment with Heroku
 	- HTML
 	- CSS
