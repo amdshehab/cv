@@ -75,3 +75,29 @@ Adept at performing full software development life cycle activities. Highly comp
 
 - BEng Hons, 2.1
 - Achieved first class results in mathematically oriented, complex modules such as Advanced Engineering Mathematics and Thermodynamics
+
+## <a name="experience"> Experience </a>
+
+**ToolStation** (Aug 2016 - Apr 2017)
+
+*Retail Manager*
+
+- Lead a team of 8, conducting reviews, appraisals and performance management.
+- Over a period of 4 months, transformed the store to a profitable regional asset from a -17% deficit.
+
+**BathStore** (Nov 2015 - Jul 2016)
+
+*Retail Manager - Dual site manager*
+
+- Promoted to Dual-Site manager after delivering exceptional sales results for my store.
+- Responsible for two stores with a 2.5 Million annual turnover.
+
+**London South Bank University** (Feb 2015 - sep 2015)
+
+*Faculty Administrator*
+
+-	Responsible for all student/course related issues throughout the entire Engineering faculty.
+
+## <a name="contact"> Contact  </a>
+
+Don't hesitate to get in touch with me  on [LinkedIn](https://www.linkedin.com/in/ahmedshehab3/) if you're looking for a Junior Developer with a passion for big ideas, love of technology and a commitment to Software Craftsmanship!
