@@ -46,3 +46,22 @@ Adept at performing full software development life cycle activities. Highly comp
 	- JQuery
 	- Ruby on Rails
 	- React-Native
+
+## <a name="education"> Education </a>
+
+#### Makers Academy (April 2017 to July 2017)
+
+16 week highly selective intensive bootcamp in software/web development, encompassing the most widely used languages and frameworks. Special emphasises on good software craftsmanship and the ability to write well tested, clean and maintainable code. My studies have taken me beyond the standard curriculum:  
+
+- Agile and XP methodologies
+- TDD, BDD, DRY, SOLID and MVC
+- Version control with Git and Github
+- Pair programming
+- Object­-oriented programming
+- Test Driven Development: Rspec, Capybara, Jasmine, Jest, Mocha, Zombie, Chai
+- Full Stack, MEAN, MERN and ROR
+- JavaScript, jQuery, AJAX, Node.js, AngularJs, ReactJs, React Native
+- Ruby, Ruby on Rails, Sinatra
+- Rapid deployment with Heroku
+- Databases: MongoDB, PostgreSQL, Mongoose and Datamapper
+- HTML5, CSS3, SCSS, Bootstrap
