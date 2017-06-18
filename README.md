@@ -100,4 +100,4 @@ Adept at performing full software development life cycle activities. Highly comp
 
 ## <a name="contact"> Contact  </a>
 
-You can get hold of me on me [LinkedIn](https://www.linkedin.com/in/ahmedshehab3/) or via email: shehab.ahmed.uk@gmail.com
+You can get hold of me on [LinkedIn](https://www.linkedin.com/in/ahmedshehab3/) or via email: shehab.ahmed.uk@gmail.com
