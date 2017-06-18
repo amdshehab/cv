@@ -30,7 +30,7 @@ Adept at performing full software development life cycle activities. Highly comp
 	- Node.js
 	- MongoDB - Mongoose
 	- RESTFul api design -> Express & Node.js
-        - Version control with git and GitHub
+    - Version control with git and GitHub
 
 	**--- proficient ---**
 
