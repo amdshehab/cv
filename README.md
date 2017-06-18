@@ -21,8 +21,6 @@ Adept at performing full software development life cycle activities. Highly comp
 
 ## <a name="skills"> Skills </a>
 
-### Skills
-
 	**--- strongest ---**
 
 	- Object oriented principles and design.
@@ -38,7 +36,7 @@ Adept at performing full software development life cycle activities. Highly comp
 
 	- Ruby
 	- Sinatra
-        - Angular
+      - Angular
 	- Deployment with Heroku
 	- HTML
 	- CSS
