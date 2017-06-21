@@ -99,5 +99,4 @@ Adept at performing full software development life cycle activities. Highly comp
 -	Responsible for all student/course related issues throughout the entire Engineering faculty.
 
 ## <a name="contact"> Contact  </a>
-
-Don't hesitate to get in touch with me on [LinkedIn](https://www.linkedin.com/in/ahmedshehab3/) if you're looking for a Junior Developer with a passion for big ideas, love of technology and a commitment to Software Craftsmanship!
+You can get hold of me on [LinkedIn](https://www.linkedin.com/in/ahmedshehab3/) or via email: shehab.ahmed.uk@gmail.com
