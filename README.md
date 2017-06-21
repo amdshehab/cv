@@ -64,7 +64,7 @@ Adept at performing full software development life cycle activities. Highly comp
 - Ruby, Ruby on Rails, Sinatra
 - Rapid deployment with Heroku
 - Databases: MongoDB, PostgreSQL, Mongoose and Datamapper
-- HTML5, CSS3, SCSS, Bootstrap
+- HTML5, CSS, Bootstrap
 
 #### Birkbeck University of London - GeoChemistry (September 2016 to July 2018)
 
