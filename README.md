@@ -83,7 +83,7 @@ Adept at performing full software development life cycle activities. Highly comp
 *Retail Manager*
 
 - Lead a team of 8, conducting reviews, appraisals and performance management.
-- Over a period of 4 months, transformed the store to a profitable regional asset from a -17% deficit.
+- Over a period of 4 months, transformed the store to a profitable regional asset up from a -17% deficit.
 
 **BathStore** (Nov 2015 - Jul 2016)
 
