@@ -9,6 +9,8 @@ Adept at performing full software development life cycle activities. Highly comp
 
 ## <a name="makers_projects">Makers Academy Projects</a>
 
+Projects are listed in ascending order starting from the begining of Makers Academy to my Final project; this is done to show progression.
+
 | Project | Summary | Technologies |
  |----------|----------|----------|
 | [Takeaway Challenge](https://github.com/hyper0009/takeaway-challenge) | Ruby program which allows users to select multiple dishes from a menu, confirm their selection, place their order and receive a confirmation text message. | Ruby, ODD, TDD, Twilio API |
