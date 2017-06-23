@@ -33,7 +33,9 @@ Adept at performing full software development life cycle activities. Highly comp
     - Version control with git and GitHub
 
 	**--- proficient ---**
-
+	- Swift
+	- Xcode
+	- SpriteKit
 	- Ruby
 	- Sinatra
     - AngularJS
@@ -46,6 +48,7 @@ Adept at performing full software development life cycle activities. Highly comp
 	- JQuery
 	- Ruby on Rails
 	- React-Native
+	- Objective C
 
 ## <a name="education"> Education </a>
 
