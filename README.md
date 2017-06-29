@@ -19,7 +19,7 @@ Projects are listed in ascending order starting from the begining of Makers Acad
 | [Rocks-BnB](https://github.com/hyper0009/MakersBnB) | An AirBnB clone which allows users to list spaces with available dates, allows users to request to book the space for available dates and allows the owner to approve requests for booking. | Node.js, AngularJS, MongoDB, Express, Heroku, TDD, OOD |
 [An-Illogical-Approach-To-Life](https://github.com/hyper0009/An-illogical-approach-to-life) | A web based RPG game where a user can create multiple characters with different stats, engage in different battles against weird Bosses from a map, gain xp for a character and develop stats when leveling up. | Node.js, AngularJS, MongoDB, Express, TDD, OOD |
 | [Bank](https://github.com/hyper0009/bank) | A solution to the Bank kata, creating a bank account for users to withdraw and deposit money, users can then print their statement in a specific format | JavaScript(ES6), OOD, TDD, DRY, SOLID |
-| [Work in Progress]| An iPhone side-scroller RPG game  | Swift, Xcode, SpriteKit, XCTest, TDD, OOD, Physics-Engine|
+| [Project-Z](https://github.com/hyper0009/Project-Z)| An iPhone side-scroller game  | Swift, Xcode, SpriteKit, XCTest, TDD, OOD, Physics-Engine|
 
 ## <a name="skills"> Skills </a>
 
