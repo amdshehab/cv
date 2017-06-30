@@ -101,7 +101,7 @@ Projects are listed in ascending order starting from the begining of Makers Acad
 
 *Faculty Administrator*
 
--	Responsible for all student/course related issues throughout the entire Engineering faculty.
+-	Responsible for all student/course related issues throughout the Engineering faculty.
 
 ## <a name="contact"> Contact  </a>
 You can get hold of me on [LinkedIn](https://www.linkedin.com/in/ahmedshehab3/) or via email: shehab.ahmed.uk@gmail.com
