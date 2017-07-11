@@ -56,7 +56,7 @@ Projects are listed in ascending order starting from the begining of Makers Acad
 
 #### Makers Academy (April 2017 to July 2017)
 
-16 week highly selective, intensive bootcamp in software/web development, encompassing the most widely used languages and frameworks. Special emphasises on good software craftsmanship and the ability to write well tested, clean and maintainable code. My studies have taken me beyond the standard curriculum:  
+16 week highly selective, intensive bootcamp in software/web development, encompassing the most widely used languages and frameworks. Special emphasis on good software craftsmanship and the ability to write well tested, clean and maintainable code. My studies have taken me beyond the standard curriculum:  
 
 - Agile and XP methodologies
 - TDD, BDD, DRY, SOLID and MVC
