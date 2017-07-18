@@ -5,7 +5,7 @@
 A clever full stack developer with a solid academic background in engineering, offering a strong foundation in software engineering and programming principles.
 
 
-Adept at performing full software development life cycle activities. Highly competent in writing concise, well tested and easily maintainable code. Able to soak up new concepts and ideas quickly by utilising a refined learning practice. Currently looking for a software engineering position with an ambitious company that can offer a challenging environment, development and  progression.
+Adept at performing full software development life cycle activities. Highly competent in writing concise, well tested and easily maintainable code. Able to soak up new concepts and ideas quickly by utilizing a refined learning practice. Currently looking for a software engineering position with an ambitious company that can offer a challenging environment, development and  progression.
 
 ## <a name="makers_projects">Makers Academy Projects</a>
 
