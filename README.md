@@ -36,6 +36,7 @@ Projects are listed in ascending order starting from the begining of Makers Acad
 
 	**--- proficient ---**
 	- Swift
+	- C#
 	- Xcode
 	- SpriteKit
 	- Ruby
